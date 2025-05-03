@@ -148,8 +148,3 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 * 🧩 Plugin fejlesztés: [Figma Plugin API](https://www.figma.com/plugin-docs/intro/)
 
 ---
-
-Szeretnél ehhez gyakorlati fájl sablonokat, például mini design system template-et, vagy készítsünk közösen egy komplexebb példát egy UI flow-ra?
-
----
-

@@ -121,19 +121,7 @@ A layoutot `Auto Layout` + `Constraints` segítségével alakítsd ki, pl.:
 
 Mivel jelenleg nem tudok közvetlen `.fig` fájlt szerkeszteni valós időben, a következőt javaslom:
 
-### 🔧 Két lehetőség:
-
-1. **Én elkészítem a .fig sablont, amit letölthetsz**
-
-   * Ez teljesen tartalmazza az itt definiált szerkezetet
-   * Megkaphatod készen: Atoms, Molecules, Organisms, Templates, Pages
-
-2. **Te készíted el, én real-time vezetlek benne**
+- **Te készíted el a .fig sablont, én real-time vezetlek benne**
 
    * Megnyitod a Figma-t
    * Írom soronként, mit csinálj, hogyan állítsd be az Auto Layout-ot, Token-eket, Variánsokat
-
-➡️ **Melyik opciót szeretnéd most választani?**
-
-* [ ] Elkészítem én a sablont és megkapod
-* [ ] Végigvezetlek lépésről lépésre real-time Figma-ban (te szerkesztesz)

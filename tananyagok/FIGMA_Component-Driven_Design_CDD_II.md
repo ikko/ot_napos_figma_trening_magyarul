@@ -97,7 +97,7 @@ Ez a struktúra segít a komponensek logikus szervezésében és könnyű megtal
 
 ---
 
-Ha szeretnéd, elkészíthetek egy konkrét Figma sablont az itt leírtak alapján, amely tartalmazza az atomok, molekulák, organizmusok, sablonok és oldalak példáit. Ez segíthet a gyakorlati megvalósításban és a design rendszered kialakításában. Jelezd, ha érdekel, és szívesen elkészítem számodra!
-
 [1]: https://www.setproduct.com/?utm_source=chatgpt.com "Figma templates, design systems and UI kits"
 [2]: https://www.figma.com/templates/?utm_source=chatgpt.com "Explore 300+ free design and white board templates - Figma"
+
+---

@@ -1,10 +1,10 @@
-# Öt Napos Figma Tréning (magyarul)
+# Öt Napos Figma Tréning magyarul
 
-- avagy út a `UI/UX` világába `Photoshop` és `Illustrator` háttérismeretekkel.
+- avagy út a `UI/UX` világába `Photoshop` és `Illustrator` háttérismeretekkel
 
 ---
 
-###  Figma magyar nyelvű bevezető
+###  Magyar nyelvű bevezető
 #### - [0. nap](tananyagok/FIGMA_magyar.md) ráhangolódás, tervek, fel- és előkészülés
 
 
@@ -15,19 +15,19 @@
 #### - A [4. nap](tananyagok/4_nap.md) tananyaga
 #### - Az [5. nap](tananyagok/5_nap.md) tananyaga
 
-### Kiegészítő Tananyag Segédletek az 1-5. naphoz _magyarul_
-- [Figma Segédlet: fájlok az 1-5 naphoz](tananyagok/FIGMA_file-ok_az_1-5_naphoz.md)
-- [Figma útmutató lépésről Lépésre az 1-5 naphoz](tananyagok/FIGMA_step_by_step_guide_1-5-hoz.md)
+### Kiegészítő Tananyag Segédletek az 1-5. napokhoz _magyarul_
+- [Segédlet:](tananyagok/FIGMA_file-ok_az_1-5_naphoz.md) fájlokról az 1-5 napokhoz
+- [Útmutató:](tananyagok/FIGMA_step_by_step_guide_1-5-hoz.md)  lépésről lépésre az 1-5 napokhoz
 
 
-### Gyakorlati példák az 5 Napos Tréning utánra _magyarul_
-- #### Első Gyakorlati példa: Ismeretek a CDD-ről 
+### Alapelvek gyakorlati példákon szemléltetve az Öt Napos Tréning utánra _magyarul_
+- #### Első gyakorlati példa: Ismeretek a CDD-ről 
   - [Component-Driven Design](tananyagok/FIGMA_Component-Driven_Design_CDD_I.md) megközelítés I. rész _magyarul_
   - [Component-Driven Design](tananyagok/FIGMA_Component-Driven_Design_CDD_II.md) megközelítés II. rész _magyarul_
-- #### Második Gyakorlati példa: `Login UI` fejlesztői handoff-ready layout készítése
+- #### Második gyakorlati példa: `Login UI` fejlesztői handoff-ready layout létrehozása
   - [ELső lépések](tananyagok/FIGMA_fejlesztoi_handoff-ready_layout_I.md) a fejlesztői handoff-ready layout felé, _magyarul_ 
-  - [Második lépés](tananyagok/FIGMA_fejlesztoi_handoff-ready_layout_II_magyar_es_FullHD_optimalizalt.md) a fejlesztői handoff-ready layout létrehozásában, _magyarul_
-  - [Harmadik lépés](tananyagok/FIGMA_fejlesztoi_handoff-ready_layout_III_sablon.md) a fejlesztői handoff-ready layout készítésében, interaktív meglepetésssel a végén, _magyarul_ 
+  - [Második lépés](tananyagok/FIGMA_fejlesztoi_handoff-ready_layout_II_magyar_es_FullHD_optimalizalt.md) a fejlesztői handoff-ready layout készítésében _magyarul_
+  - [Harmadik lépés](tananyagok/FIGMA_fejlesztoi_handoff-ready_layout_III_sablon.md) a fejlesztői handoff-ready layout létrehozásában, interaktív meglepetésssel, _magyarul_ 
 
 ### Hasznos és Fontos hivatkozások egy helyen, _angolul_
 - [Közösségi erőforrások](https://www.figma.com/community)
@@ -45,3 +45,7 @@
   - [iOS](https://itunes.apple.com/app/figma-mirror/id1152747299) Mobile alkalmazás
 - Profilod online [elérhetősége](https://www.figma.com/files)
 - Az [Árak](https://www.figma.com/pricing/) havi 5€ + Áfától indulnak, a rendes előfizetés, az ún.`full seat` havi 20€-ba kerül.
+
+---
+
+

@@ -85,8 +85,8 @@ Sajnálom, de jelenleg nem tudok közvetlenül .fig fájlokat létrehozni vagy m
 
 ---
 
-Ha szeretnél, segíthetek egy sablon létrehozásában, amely tartalmazza az összes szükséges struktúrát és stílust az 5 napos tantervhez. Ez megkönnyítheti a saját fájljaid elkészítését és a tanulási folyamatot. Jelezd, ha érdekel, és elkészítem számodra a sablont!
-
 [1]: https://www.templatemonster.com/hu/white-psd-templates/?utm_source=chatgpt.com "Fehér PSD-sablonok - Prémium Design | TemplateMonster"
 [2]: https://help.figma.com/hc/en-us/articles/15297425105303-Explore-design-files?utm_source=chatgpt.com "Explore design files – Figma Learn - Help Center"
 [3]: https://help.figma.com/hc/en-us/articles/8403626871063-Save-a-local-copy-of-files?utm_source=chatgpt.com "Save a local copy of files – Figma Learn - Help Center"
+
+---
