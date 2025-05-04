@@ -95,9 +95,9 @@ Készíts egy `Input Field` családot a következő logikával:
 
 ### 🔌 Ajánlott pluginok:
 
-* [**Instance Finder**](https://www.figma.com/community/plugin/1111463131251015674/Instance-Finder): Mutatja, hol használtad fel a komponens példányokat
-* [**Similayer**](https://www.figma.com/community/plugin/738454987945972471/Similayer): Rétegek kiválasztása stílus/név alapján
-* [**Design Lint**](https://www.figma.com/community/plugin/801175210412417057/Design-Lint): Hibák keresése design token szinten
+* [**Instance Finder**](https://www.figma.com/community/plugin/741895659787979282/instance-finder): Mutatja, hol használtad fel a komponens példányokat
+* [**Similayer**](https://www.figma.com/community/plugin/735733267883397781/similayer): Rétegek kiválasztása stílus/név alapján
+* [**Design Lint**](https://www.figma.com/community/plugin/801195587640428208/design-lint): Hibák keresése design token szinten
 
 ---
 

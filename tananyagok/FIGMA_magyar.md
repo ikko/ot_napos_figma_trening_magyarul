@@ -21,7 +21,7 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 
 ### 📘 Elmélet:
 
-* Figma, mint *DesignOps* eszköz: [Multiplayer design](https://www.figma.com/blog/multiplayer-design/)
+* Figma, mint *DesignOps* eszköz: [Multiplayer design](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 * Különbség Photoshop/Illustrator rétegalapú rendszere és Figma **frame/page/component** alapú rendszere között.
 * Hogyan működik a **real-time kollaboráció, verziókövetés, komponens szinkronizálás**.
 * Figma alapvető fogalmai: Frame, Group, Component, Variant, Styles, Auto Layout
@@ -57,7 +57,7 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 ### 🧠 Deep Dive:
 
 * **Design tokens koncepciója**: A színek, betűméretek, spaciok központi kezelése (mint SCSS változók, de designra)
-* Figma + [Tokens Studio plugin](https://tokens.studio/) – design tokenek exportálása CSS-be, JSON-be
+* Figma + [Tokens Studio plugin](https://tokens.studio/plugin) – design tokenek exportálása CSS-be, JSON-be
 
 ---
 
@@ -74,7 +74,7 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 ### 🧪 Gyakorlat:
 
 * Készíts egy mini design system-et (4-5 komponens + színséma + typográfia + spacing scale)
-* Használd a [Figma styles](https://help.figma.com/hc/en-us/articles/360039818754) lehetőséget: Color, Text, Effects, Grid
+* Használd a [Figma styles](https://help.figma.com/hc/en-us/articles/360039238753-Styles-in-Figma) lehetőséget: Color, Text, Effects, Grid
 
 ### 🧠 Inspiráció:
 
@@ -123,7 +123,7 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 ### 🧠 Továbbfejlesztés:
 
 * Figma → code export: [Anima](https://www.animaapp.com/), [Locofy](https://www.locofy.ai/), [Builder.io](https://www.builder.io/)
-* Pluginok: [Design Lint](https://www.figma.com/community/plugin/801175210412417057/Design-Lint), [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel)
+* Pluginok: [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint), [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel)
 
 ---
 
@@ -143,7 +143,7 @@ Az alábbi 5 napos tanterv **fókuszált, intenzív képzést** nyújt, amely ö
 
 ## 🎓 Továbblépési javaslatok:
 
-* 🌱 [Figma’s Learn Hub](https://help.figma.com/hc/en-us/categories/360002051533) (ingyenes képzések)
+* 🌱 [Figma’s Learn Hub](https://help.figma.com/hc/en-us/categories/23557013073047-Courses-tutorials-projects) (ingyenes képzések)
 * 💡 [Design Course on Design Systems](https://www.designsystems.com/)
 * 🧩 Plugin fejlesztés: [Figma Plugin API](https://www.figma.com/plugin-docs/intro/)
 

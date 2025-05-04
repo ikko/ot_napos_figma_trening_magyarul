@@ -62,7 +62,7 @@ Dokumentálj egy meglévő UI komponenst (pl. `Primary Button`) a következő el
 * Cél: Figma file-ból automatikusan generált web-alapú design system dokumentáció
 * Fő előny: nem designerek is könnyen olvassák
 
-🔗 [Zeroheight integráció](https://zeroheight.com/integrations/figma)
+🔗 [Zeroheight integráció](https://zeroheight.com/help/figma/)
 
 ### ✨ **Notion + Figma Embed**
 
@@ -127,7 +127,7 @@ Projects/
 
 ## 🚀 **Haladó tanulási útvonal innen tovább:**
 
-* 🔄 **DesignOps gondolkodásmód**: [DesignOps Handbook (InVision)](https://www.designbetter.co/designops-handbook)
+* 🔄 **DesignOps gondolkodásmód**: [DesignOps Handbook (InVision)](https://www.scribd.com/document/429768921/InVision-DesignOperationsHandbook-pdf)
 * ⚙️ **Component Driven Design**: [Atomic Design – Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
 * 📚 **Figma plugin fejlesztés**: [Plugin API Docs](https://www.figma.com/plugin-docs/intro/)
 * 📡 **Figma → Code Bridge**:

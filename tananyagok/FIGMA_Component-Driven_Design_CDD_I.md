@@ -127,7 +127,7 @@ btn/primary → size: small | medium | large
 ## 🔧 **Ajánlott Pluginok és technikák**
 
 * **[Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Tokens-Studio-for-Figma)** – tokenizált design elemek
-* **[Instance Finder](https://www.figma.com/community/plugin/896126202276396046/Instance-Finder)** – hol van használatban egy komponens
+* **[Instance Finder](https://www.figma.com/community/plugin/741895659787979282/instance-finder)** – hol van használatban egy komponens
 * **Auto Layout v5** – padding, gap, direction (mint flexbox!)
 * **Interactive Components** – állapotváltás interakció alapján
 

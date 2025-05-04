@@ -108,12 +108,12 @@
 ### 🎁 Hasznos Figma File-ok:
 
 * [Figma Learn UI Kit (official)](https://www.figma.com/community/file/1035203688168086460/Figma-Learn-UI-Kit)
-* [Apple iOS 17 UI Kit](https://www.figma.com/community/file/1347891532582509253)
+* [Apple iOS 17 UI Kit](https://www.figma.com/community/file/1356014907735159935)
 
 ### 🔌 Plugin javaslatok:
 
-* [Wireframe Kit](https://www.figma.com/community/plugin/747985167520512094/Wireframe)
-* [Auto Layout Visualizer](https://www.figma.com/community/plugin/823394012531778978/Auto-Layout-Visualizer)
+* [Wireframe Kit](https://www.figma.com/templates/wireframe-kits/)
+* [Components, Auto Layouts & Groups Spotter](https://www.figma.com/community/plugin/1400007208660250101/components-auto-layouts-groups-spotter)
 
 ---
 

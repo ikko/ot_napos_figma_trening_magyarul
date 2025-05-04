@@ -1,4 +1,4 @@
-# Öt Napos Figma Tréning magyarul
+# Öt Napos [Figma](https://help.figma.com/hc/en-us/categories/360002051613-Get-started) Tréning magyarul
 
 - avagy út a `UI/UX` világába `Photoshop` és `Illustrator` háttérismeretekkel
 

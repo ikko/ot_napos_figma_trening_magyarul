@@ -135,10 +135,10 @@ Ezzel nem kell minden képernyőn külön prototípus nyilat húzni – a viselk
 
 | Eszköz                                                                                    | Mire jó                                           |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Smart Animate](https://help.figma.com/hc/en-us/articles/360041051173)                    | Animált frame váltás komponensnév egyezés alapján |
+| [Smart Animate](https://help.figma.com/hc/en-us/articles/360039818874-Smart-animate-layers-between-frames)                    | Animált frame váltás komponensnév egyezés alapján |
 | [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion)          | Haladó animáció (mint After Effects)              |
-| [Flowkit](https://www.figma.com/community/file/747989768963517282)                        | Előre gyártott user flow ikonok, sablonok         |
-| [User Flows plugin](https://www.figma.com/community/plugin/784320155917094857/User-Flows) | Flow modellezés gyors nyilazással                 |
+| [Flowkit](https://useflowkit.com/)                        | Előre gyártott user flow ikonok, sablonok         |
+| [User Flows plugin](https://www.figma.com/community/diagramming/flowcharts?resource_type=mixed&editor_type=figjam&price=all&sort_by=all_time&creators=all) | Flow modellezés gyors nyilazással                 |
 
 ---
 

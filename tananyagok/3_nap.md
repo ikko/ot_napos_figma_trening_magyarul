@@ -46,7 +46,7 @@ Rendben, elkészítem a **3. nap** részletes tananyagát a **Design Rendszerek 
 ### 2. **Token-szerű dokumentáció**
 
 * Frame-ben vizualizáld: színsémák, tipók, layout méretek – mint egy **UI inventory**
-* Használj [Tokens Studio](https://tokens.studio/) plugint a tokens JSON exporthoz
+* Használj [Tokens Studio](https://tokens.studio/plugin) plugint a tokens JSON exporthoz
 
 ### 3. **Komponens könyvtár felépítése**
 
@@ -93,15 +93,15 @@ Ez a **kompozíciós modell** megfelel az objektumorientált rendszerarchitektú
 ### 🎨 Figmában tanulmányozható rendszerek:
 
 * [Material 3 UI Kit (official)](https://www.figma.com/community/file/1035203688168086460/)
-* [Ant Design System for Figma](https://www.figma.com/community/file/1139112031790219259)
+* [Ant Design System for Figma](https://www.figma.com/design/dpZfImYKfEEBd42o8nfO4h/Preview---Ant-Design-System-for-Figma-5.24?t=cJHK0Tb3NduEsWjh-0)
 
 ---
 
 ## 🛠️ **Plugin ajánlások a rendszerépítéshez**
 
 * [Tokens Studio](https://www.figma.com/community/plugin/843461159747178978) – Tokenek kezelése, export
-* [Design Lint](https://www.figma.com/community/plugin/801175210412417057/Design-Lint) – Konzisztencia ellenőrzés
-* [Style Organizer](https://www.figma.com/community/plugin/744930310933351365) – Globális style-ok rendbetétele
+* [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) – Konzisztencia ellenőrzés
+* [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/styles-variables-organizer) – Globális style-ok rendbetétele
 
 ---
 
@@ -126,8 +126,8 @@ Ez a **kompozíciós modell** megfelel az objektumorientált rendszerarchitektú
 * 💡 **Design system dokumentációval** kombinálva: [Zeroheight](https://zeroheight.com/)
 * 🎥 **Videók a koncepcióról**:
 
-  * [Figma – Build your own Design System (40 min)](https://www.youtube.com/watch?v=GbKp7bPgt5Q)
-  * [Figma Auto Layout 4.0](https://www.youtube.com/watch?v=Hr4C4a3zqCg)
+  * [Build a Design System (1:25)](https://www.youtube.com/watch?v=HNJmWKndUA4)
+  * [Learn Figma Auto Layout in 10 Minutes ](https://www.youtube.com/watch?v=To_ADCVSg5g)
 
 ---
 
